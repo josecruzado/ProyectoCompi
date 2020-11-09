@@ -1,0 +1,7 @@
+/* Ejemplo 5
+  Caso con Errores*/
+
+num1 = 16.153
+num2 = 0.25
+
+res#multi = num1 * num2
